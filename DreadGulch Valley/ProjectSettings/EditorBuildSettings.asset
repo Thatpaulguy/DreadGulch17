@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/_MainMenu.unity
+    guid: 47e11a6513d8ac646a8189762c5c428b
+  - enabled: 1
+    path: Assets/Scenes/CrashSite.unity
+    guid: 79eb10e9d5044464c8d7943cb307f29a
+  - enabled: 1
+    path: Assets/Scenes/Canyon.unity
+    guid: d3bac9c72303a39478723518deb4b7ed
+  - enabled: 1
+    path: Assets/Scenes/Mines.unity
+    guid: 23653919dbeb46148a313a0ea033d8ac
+  - enabled: 1
+    path: Assets/Scenes/GraveYard.unity
+    guid: ceb622c13ec5ad241a9032ad3b5acd88
+  - enabled: 1
+    path: Assets/Scenes/Town.unity
+    guid: d7ff9b4b6f8ea174abfbf97497e76513
+  - enabled: 1
+    path: Assets/Scenes/Saloon.unity
+    guid: 8d9a8a4c92daed44e914d21d41df2f3f
