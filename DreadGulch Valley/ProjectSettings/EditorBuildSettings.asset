@@ -26,3 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Saloon.unity
     guid: 8d9a8a4c92daed44e914d21d41df2f3f
+  - enabled: 1
+    path: Assets/Scenes/Minigame scene.unity
+    guid: 385383162c99b884aa62dc0574c5421e
+  - enabled: 1
+    path: Assets/Scenes/FlyBy.unity
+    guid: c3d05ba4d0081cd4a8f2ec5113e26701

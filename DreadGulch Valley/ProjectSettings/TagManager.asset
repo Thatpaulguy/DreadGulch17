@@ -45,6 +45,29 @@ TagManager:
   - winLoss
   - oreCartSound
   - leverSound
+  - AmmoCount
+  - minigameover
+  - DestroyableBoulder
+  - DynamitePickup
+  - Powercore0
+  - OtherDynamite
+  - levelMapCamera
+  - LevelMapImage
+  - AchievementPanel
+  - sign1
+  - sign2
+  - sign3
+  - sign4
+  - sign5
+  - sign6
+  - sign7
+  - sign8
+  - sign9
+  - sign10
+  - sign11
+  - sign12
+  - sign13
+  - sign14
   layers:
   - Default
   - TransparentFX
@@ -59,7 +82,7 @@ TagManager:
   - Player
   - Minimap
   - ShootableMinimap
-  - 
+  - LevelMapLayer
   - 
   - 
   - 
